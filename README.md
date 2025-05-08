@@ -1,6 +1,6 @@
 # CRUD API Template using FASTAPI with PostgreSQL Database and Docker
 
-**IMPORTANT NOTE: This repo has been developed with the new Llama API from Meta using the `Llama-4-Maverick-17B-128E-Instruct-FP8` model**
+**IMPORTANT NOTE: This repo has been developed with the new Llama API from Meta using the `Llama-4-Maverick-17B-128E-Instruct-FP8` model.**
 
 This is a base CRUD API template using FASTAPI with a PostgreSQL database, dockerized using Docker Compose. The template includes a separate service for running database migrations using Alembic.
 
